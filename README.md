@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slothqae
+- 👋 Hi, I’m @slothtae
 - 👀 I’m interested in technology that changes the world and makes our life easy
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me ...
