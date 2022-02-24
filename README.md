@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slothtae
+- 👋 Hi, I’m Karan 
 - 👀 I’m interested in technology that changes the world and makes our life easy
 - 🌱 I’m currently an computer science undergrad student
 
